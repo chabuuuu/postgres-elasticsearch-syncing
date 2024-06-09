@@ -1,0 +1,1 @@
+# postgres-elasticsearch-syncing
